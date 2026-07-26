@@ -4,7 +4,7 @@ Projeto desenvolvido durante a formação **AWS re/Start**, da **Escola da Nuvem
 
 ---
 
-# 📌 Sobre o projeto
+#  Sobre o projeto
 
 O projeto consiste em um chatbot inteligente capaz de compreender a intenção do usuário por meio de **Processamento de Linguagem Natural (NLP)**, recomendar produtos de forma personalizada e oferecer recursos nativos de acessibilidade para promover uma experiência de compra mais inclusiva.
 
@@ -12,7 +12,7 @@ A solução foi planejada utilizando serviços gerenciados da AWS e fundamentada
 
 ---
 
-# 🎯 Objetivos
+#  Objetivos
 
 - Melhorar a experiência de compra em e-commerce.
 - Reduzir dificuldades durante a busca por produtos.
@@ -22,7 +22,7 @@ A solução foi planejada utilizando serviços gerenciados da AWS e fundamentada
 
 ---
 
-# 🚨 Problema
+#  Problema
 
 A pesquisa realizada identificou diversas dificuldades enfrentadas pelos consumidores durante compras online.
 
@@ -41,7 +41,7 @@ Principais resultados:
 
 ---
 
-# 💡 Solução proposta
+#  Solução proposta
 
 Foi projetado um chatbot inteligente capaz de oferecer uma experiência personalizada durante a jornada de compra, utilizando Inteligência Artificial para compreender a intenção do usuário e recomendar produtos de forma mais eficiente.
 
@@ -55,11 +55,11 @@ A solução contempla:
 - Integração com catálogo de produtos;
 - Arquitetura Serverless baseada em serviços AWS.
 
-📷 **Inserir imagem da solução**
+
 
 ---
 
-# ☁️ Arquitetura AWS
+#  Arquitetura AWS
 
 A solução foi concebida utilizando uma arquitetura Serverless composta pelos seguintes serviços:
 
@@ -98,7 +98,7 @@ A solução foi concebida utilizando uma arquitetura Serverless composta pelos s
 
 ---
 
-# 🔄 Fluxo da solução
+#  Fluxo da solução
 
 ```text
 Usuário
@@ -133,7 +133,7 @@ QuickSight
 
 ---
 
-# 🖥️ Protótipo
+#  Protótipo
 
 Foi desenvolvido um protótipo funcional da interface do chatbot integrado ao layout de um e-commerce, incluindo recursos de acessibilidade como:
 
@@ -147,7 +147,7 @@ Foi desenvolvido um protótipo funcional da interface do chatbot integrado ao la
 
 ---
 
-# 📊 Pesquisa com usuários
+#  Pesquisa com usuários
 
 Antes da definição da solução foi realizada uma pesquisa para compreender a jornada de compra dos consumidores.
 
@@ -162,7 +162,7 @@ Os resultados permitiram validar as principais dores dos usuários e direcionara
 
 ---
 
-# 📋 Metodologia
+#  Metodologia
 
 O desenvolvimento do projeto foi organizado utilizando metodologia ágil, dividido em quatro etapas:
 
@@ -195,7 +195,7 @@ O desenvolvimento do projeto foi organizado utilizando metodologia ágil, dividi
 
 ---
 
-# 🛠️ Tecnologias utilizadas
+#  Tecnologias utilizadas
 
 ## Cloud Computing
 
@@ -232,7 +232,7 @@ O desenvolvimento do projeto foi organizado utilizando metodologia ágil, dividi
 
 ---
 
-# 📈 Benefícios esperados
+#  Benefícios esperados
 
 - Melhor experiência durante a jornada de compra.
 - Maior acessibilidade para diferentes perfis de usuários.
@@ -243,7 +243,7 @@ O desenvolvimento do projeto foi organizado utilizando metodologia ágil, dividi
 
 ---
 
-# 🚀 Melhorias futuras
+#  Melhorias futuras
 
 - Integração com Amazon Bedrock para IA Generativa;
 - Histórico personalizado de conversas;
@@ -254,7 +254,7 @@ O desenvolvimento do projeto foi organizado utilizando metodologia ágil, dividi
 
 ---
 
-# 👥 Equipe
+#  Equipe
 
 Projeto desenvolvido durante a formação **AWS re/Start – Escola da Nuvem**.
 
