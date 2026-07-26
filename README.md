@@ -33,7 +33,11 @@ Principais resultados:
 - 84,6% utilizariam um chatbot para esclarecer dúvidas técnicas.
 - 69,2% afirmam que respostas imediatas aumentariam sua confiança durante a compra.
 
-📷 **Inserir gráfico da pesquisa**
+<img width="2752" height="1536" alt="Principais dificuldades na finalização de compras online" src="https://github.com/user-attachments/assets/da95128d-02b8-4a8f-8bff-75a4b877c509" />
+
+<img width="2752" height="1536" alt="Principais ações de um chatbot na jornada de compra online" src="https://github.com/user-attachments/assets/109ab0ca-7b17-41ec-8bfe-834bbbd04b2a" />
+
+
 
 ---
 
@@ -89,7 +93,8 @@ A solução foi concebida utilizando uma arquitetura Serverless composta pelos s
 - Amazon Kinesis Data Firehose
 - Amazon QuickSight
 
-📷 **Inserir diagrama da arquitetura**
+<img width="1126" height="458" alt="image" src="https://github.com/user-attachments/assets/8bf24a34-cdc6-468d-b7f9-998e0620b8d7" />
+
 
 ---
 
@@ -137,7 +142,8 @@ Foi desenvolvido um protótipo funcional da interface do chatbot integrado ao la
 - Interface conversacional;
 - Recomendação personalizada de produtos.
 
-📷 **Inserir imagem do protótipo**
+<img width="793" height="467" alt="image" src="https://github.com/user-attachments/assets/d313ff06-fdc8-400b-81cd-87111c7f101b" />
+
 
 ---
 
@@ -147,7 +153,12 @@ Antes da definição da solução foi realizada uma pesquisa para compreender a 
 
 Os resultados permitiram validar as principais dores dos usuários e direcionaram a definição dos requisitos funcionais e da arquitetura proposta.
 
-📷 **Inserir gráficos da pesquisa**
+<img width="790" height="597" alt="image" src="https://github.com/user-attachments/assets/436da098-f745-4517-9c14-afbd23d68e92" />
+
+<img width="2752" height="1536" alt="Principais dificuldades na finalização de compras online" src="https://github.com/user-attachments/assets/0a9a15c1-1e16-4a6a-9e43-5c7bf017210e" />
+
+<img width="2752" height="1536" alt="Principais ações de um chatbot na jornada de compra online" src="https://github.com/user-attachments/assets/e9c05d9a-8c18-4b3a-a86d-5cb48d9976fc" />
+
 
 ---
 
